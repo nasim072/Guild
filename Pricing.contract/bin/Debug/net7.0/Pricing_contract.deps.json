@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Pricing_contract/1.0.0": {
+        "dependencies": {
+          "0_Framework": "1.0.0",
+          "Pricing_Entity": "1.0.0"
+        },
+        "runtime": {
+          "Pricing_contract.dll": {}
+        }
+      },
+      "0_Framework/1.0.0": {
+        "runtime": {
+          "0_Framework.dll": {}
+        }
+      },
+      "Pricing_Entity/1.0.0": {
+        "dependencies": {
+          "0_Framework": "1.0.0"
+        },
+        "runtime": {
+          "Pricing_Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pricing_contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "0_Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pricing_Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

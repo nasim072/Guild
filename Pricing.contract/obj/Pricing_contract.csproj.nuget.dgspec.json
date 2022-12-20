@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\Pricing.contract\\Pricing_contract.csproj": {}
+  },
+  "projects": {
+    "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\0_Framework\\0_Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\0_Framework\\0_Framework.csproj",
+        "projectName": "0_Framework",
+        "projectPath": "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\0_Framework\\0_Framework.csproj",
+        "packagesPath": "C:\\Users\\Nasim\\.nuget\\packages\\",
+        "outputPath": "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\0_Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nasim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "Https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\Guild.Entity\\Pricing_Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\Guild.Entity\\Pricing_Entity.csproj",
+        "projectName": "Pricing_Entity",
+        "projectPath": "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\Guild.Entity\\Pricing_Entity.csproj",
+        "packagesPath": "C:\\Users\\Nasim\\.nuget\\packages\\",
+        "outputPath": "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\Guild.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nasim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "Https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\0_Framework\\0_Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\Pricing.contract\\Pricing_contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\Pricing.contract\\Pricing_contract.csproj",
+        "projectName": "Pricing_contract",
+        "projectPath": "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\Pricing.contract\\Pricing_contract.csproj",
+        "packagesPath": "C:\\Users\\Nasim\\.nuget\\packages\\",
+        "outputPath": "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\Pricing.contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nasim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "Https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\0_Framework\\0_Framework.csproj"
+              },
+              "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\Guild.Entity\\Pricing_Entity.csproj": {
+                "projectPath": "A:\\MyProjects\\Source\\Nasim\\NASIM.GUILD\\Guild.Entity\\Pricing_Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

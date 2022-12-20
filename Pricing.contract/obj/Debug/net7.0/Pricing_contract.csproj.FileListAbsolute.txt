@@ -1,0 +1,17 @@
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\obj\Debug\net7.0\Pricing_contract.csproj.AssemblyReference.cache
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\obj\Debug\net7.0\Pricing_contract.GeneratedMSBuildEditorConfig.editorconfig
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\obj\Debug\net7.0\Pricing_contract.AssemblyInfoInputs.cache
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\obj\Debug\net7.0\Pricing_contract.AssemblyInfo.cs
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\obj\Debug\net7.0\Pricing_contract.csproj.CoreCompileInputs.cache
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\bin\Debug\net7.0\Pricing_contract.deps.json
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\bin\Debug\net7.0\Pricing_contract.dll
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\bin\Debug\net7.0\Pricing_contract.pdb
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\bin\Debug\net7.0\0_Framework.dll
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\bin\Debug\net7.0\Pricing_Entity.dll
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\bin\Debug\net7.0\0_Framework.pdb
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\bin\Debug\net7.0\Pricing_Entity.pdb
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\obj\Debug\net7.0\Pricing_contract.csproj.CopyComplete
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\obj\Debug\net7.0\Pricing_contract.dll
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\obj\Debug\net7.0\refint\Pricing_contract.dll
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\obj\Debug\net7.0\Pricing_contract.pdb
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.contract\obj\Debug\net7.0\ref\Pricing_contract.dll

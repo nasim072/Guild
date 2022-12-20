@@ -1,0 +1,12 @@
+A:\MyProjects\Source\Nasim\NASIM.GUILD\0_Framework\bin\Debug\net7.0\0_Framework.deps.json
+A:\MyProjects\Source\Nasim\NASIM.GUILD\0_Framework\bin\Debug\net7.0\0_Framework.dll
+A:\MyProjects\Source\Nasim\NASIM.GUILD\0_Framework\bin\Debug\net7.0\0_Framework.pdb
+A:\MyProjects\Source\Nasim\NASIM.GUILD\0_Framework\obj\Debug\net7.0\0_Framework.csproj.AssemblyReference.cache
+A:\MyProjects\Source\Nasim\NASIM.GUILD\0_Framework\obj\Debug\net7.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+A:\MyProjects\Source\Nasim\NASIM.GUILD\0_Framework\obj\Debug\net7.0\0_Framework.AssemblyInfoInputs.cache
+A:\MyProjects\Source\Nasim\NASIM.GUILD\0_Framework\obj\Debug\net7.0\0_Framework.AssemblyInfo.cs
+A:\MyProjects\Source\Nasim\NASIM.GUILD\0_Framework\obj\Debug\net7.0\0_Framework.csproj.CoreCompileInputs.cache
+A:\MyProjects\Source\Nasim\NASIM.GUILD\0_Framework\obj\Debug\net7.0\0_Framework.dll
+A:\MyProjects\Source\Nasim\NASIM.GUILD\0_Framework\obj\Debug\net7.0\refint\0_Framework.dll
+A:\MyProjects\Source\Nasim\NASIM.GUILD\0_Framework\obj\Debug\net7.0\0_Framework.pdb
+A:\MyProjects\Source\Nasim\NASIM.GUILD\0_Framework\obj\Debug\net7.0\ref\0_Framework.dll
