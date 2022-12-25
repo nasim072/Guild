@@ -4,32 +4,35 @@ namespace Pricing_Entity;
 
 public class PricingThing
 {
-    public PricingThing( int thingId, DateOnly date )
+    public PricingThing(int thingId, DateOnly date)
     {
         ThingId = thingId;
         DateStart = date.ToString();
-    
+
         IsDeleted = true;
     }
 
     public PricingThing()
     {
-        
+
     }
 
-    public long Id { get; }
-    public int ThingId { get; }
-    public Thing? Thing { get; }
-    public string DateStart { get; private set; }
-    public string? DateEnd { get; private set; }
+    public long Id { get; set; }
+    public int ThingId { get; set; }
+    public Thing? Thing { get; set; }
+    public string DateStart { get; set; }
+    public string? DateEnd { get; set; }
 
-    public Money? PriceGrade1 { get;private set; }
-    public Money? PriceGrade2 { get;private set; }
-    public bool IsDeleted { get; private set; }
+    public Money? PriceGrade1 { get; set; }
+    public Money? PriceGrade2 { get; set; }
+    public bool IsDeleted { get; set; }
 
-    public bool Remove(DateOnly dateEnd)
+    public bool Remove(DateOnly? dateEnd)
     {
-        if (dateEnd < DateOnly.FromDateTime(DateTime.Now) || dateEnd<DateStart.ToDate())
+        if (dateEnd is null)
+            dateEnd = DateOnly.FromDateTime(DateTime.Now);
+
+        if (dateEnd < DateOnly.FromDateTime(DateTime.Now) || dateEnd < DateStart.ToDate())
             return false;
 
         DateEnd = dateEnd.ToMyString();

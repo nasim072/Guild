@@ -1,9 +1,4 @@
 ﻿using Pricing_Entity;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Pricing_contract.PricingAgg
 {
@@ -22,7 +17,7 @@ namespace Pricing_contract.PricingAgg
     {
         public CategoryViewModel Category { get; set; }
         public string Title { get; set; }
-       public IList<PricingThing> pricing { get; set;s }
+        public IList<PricingThing> pricing { get; set; }
 
     }
 
@@ -32,7 +27,7 @@ namespace Pricing_contract.PricingAgg
         public string Title { get; set; }
         public int PriceGrade1 { get; set; }
         public int PriceGrade2 { get; set; }
-        public string DateStart { get;  set; }
+        public string DateStart { get; set; }
     }
     public class PricingShowViewModelForAll
     {
@@ -40,7 +35,7 @@ namespace Pricing_contract.PricingAgg
         public string Title { get; set; }
         public int PriceGrade1 { get; set; }
         public int PriceGrade2 { get; set; }
-        public string DateStart { get;  set; }
+        public string DateStart { get; set; }
     }
 
 

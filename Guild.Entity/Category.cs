@@ -7,6 +7,10 @@ public class Category
         TitleCategory = titleCategory;
     }
 
+    public Category()
+    {
+
+    }
     public int Id { get; set; }
     public string TitleCategory { get; set; }
     public IList<Thing> Things { get; set; }

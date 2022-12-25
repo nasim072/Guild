@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Pricing_Entity;
 
 namespace Infrastracture.EFCore.Mapping
 {
-    public class PricingThingMapping:IEntityTypeConfiguration<PricingThing>
+    public class PricingThingMapping : IEntityTypeConfiguration<PricingThing>
     {
         public void Configure(EntityTypeBuilder<PricingThing> builder)
         {

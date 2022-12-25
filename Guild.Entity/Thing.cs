@@ -8,21 +8,21 @@ public class Thing
         CategoryId = categoryId;
         ProfitMargin = profitMargin;
         IsDeleted = false;
-        
+
     }
 
     public Thing()
     {
-        
+
     }
 
-    public ICollection<PricingThing> pricing { get; private set; }
-    public int Id { get; private set; }
-    public string Title { get; private set; }
-    public Category? Category { get; private set; }
-    public int CategoryId { get; private set; }
-    public byte ProfitMargin { get; private set; }
-    public bool IsDeleted { get; private set; }
+    public IList<PricingThing>? PricingThings { get;set; }
+    public int Id { get; set; }
+    public string Title { get; set; }
+    public Category? Category { get; set; }
+    public int CategoryId { get;  set; }
+    public byte ProfitMargin { get; set; }
+    public bool IsDeleted { get; set; }
 
 
     public void Edit(string? title, int? categoryId, byte? profitMargin)

@@ -31,6 +31,9 @@
         }
       },
       "Pricing_Entity/1.0.0": {
+        "dependencies": {
+          "0_Framework": "1.0.0"
+        },
         "runtime": {
           "Pricing_Entity.dll": {}
         }

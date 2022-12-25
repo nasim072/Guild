@@ -1,8 +1,3 @@
-A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\obj\Debug\net7.0\Pricing_Application.csproj.AssemblyReference.cache
-A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\obj\Debug\net7.0\Pricing_Application.GeneratedMSBuildEditorConfig.editorconfig
-A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\obj\Debug\net7.0\Pricing_Application.AssemblyInfoInputs.cache
-A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\obj\Debug\net7.0\Pricing_Application.AssemblyInfo.cs
-A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\obj\Debug\net7.0\Pricing_Application.csproj.CoreCompileInputs.cache
 A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\bin\Debug\net7.0\Pricing_Application.deps.json
 A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\bin\Debug\net7.0\Pricing_Application.dll
 A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\bin\Debug\net7.0\Pricing_Application.pdb
@@ -12,6 +7,11 @@ A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\bin\Debug\net7.0\Pric
 A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\bin\Debug\net7.0\0_Framework.pdb
 A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\bin\Debug\net7.0\Pricing_Entity.pdb
 A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\bin\Debug\net7.0\Pricing_contract.pdb
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\obj\Debug\net7.0\Pricing_Application.csproj.AssemblyReference.cache
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\obj\Debug\net7.0\Pricing_Application.GeneratedMSBuildEditorConfig.editorconfig
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\obj\Debug\net7.0\Pricing_Application.AssemblyInfoInputs.cache
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\obj\Debug\net7.0\Pricing_Application.AssemblyInfo.cs
+A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\obj\Debug\net7.0\Pricing_Application.csproj.CoreCompileInputs.cache
 A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\obj\Debug\net7.0\Pricing_Application.csproj.CopyComplete
 A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\obj\Debug\net7.0\Pricing_Application.dll
 A:\MyProjects\Source\Nasim\NASIM.GUILD\Pricing.Application\obj\Debug\net7.0\refint\Pricing_Application.dll

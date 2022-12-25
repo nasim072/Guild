@@ -1,5 +1,5 @@
-﻿using System.Linq.Expressions;
-using Pricing_Entity;
+﻿using Pricing_Entity;
+using System.Linq.Expressions;
 
 public interface IThingRepository
 {
